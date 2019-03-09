@@ -1,0 +1,30 @@
+C:\Users\1FNM\source\repos\Grable\Grable\bin\Debug\Grable.exe.config
+C:\Users\1FNM\source\repos\Grable\Grable\bin\Debug\Grable.exe
+C:\Users\1FNM\source\repos\Grable\Grable\bin\Debug\Grable.pdb
+C:\Users\1FNM\source\repos\Grable\Grable\bin\Debug\Grable.xml
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.vbprojResolveAssemblyReference.cache
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.Form1.resources
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.Resources.resources
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.vbproj.GenerateResource.Cache
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.vbproj.CoreCompileInputs.cache
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.exe
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.xml
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.pdb
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.hizokuzei.resources
+C:\Users\1FNM\source\repos\Grable\Grable\obj\Debug\Grable.mizuzokusei.resources
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\bin\Debug\Grable.exe.config
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\bin\Debug\Grable.exe
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\bin\Debug\Grable.pdb
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\bin\Debug\Grable.xml
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.vbprojResolveAssemblyReference.cache
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.Form1.resources
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.hizokuzei.resources
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.mizuzokusei.resources
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.Resources.resources
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.vbproj.GenerateResource.Cache
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.vbproj.CoreCompileInputs.cache
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.exe
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.xml
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.pdb
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.tutizokusei.resources
+C:\Users\1FNM\Documents\Visual Studio 2017\Projects\repos\Grable\Grable\obj\Debug\Grable.hikarizokusi.resources
